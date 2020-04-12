@@ -1,0 +1,20 @@
+{
+  "name": "home",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "canvas": "^2.4.1",
+    "canvas-constructor": "^3.0.1",
+    "discord.js": "^11.4.2",
+    "i": "^0.3.6",
+    "npg": "^0.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
